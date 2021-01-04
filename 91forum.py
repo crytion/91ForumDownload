@@ -54,7 +54,7 @@ class spider91():
 aaaa = spider91()
 
 def main():
-    for i in range(403605, 403706):
+    for i in range(403605, 403706):  #此处更改爬取的范围
         aaaa.run('http://f1113.wonderfulday30.live/viewthread.php?tid='+str(i))
 
 
