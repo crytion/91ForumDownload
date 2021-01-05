@@ -1,0 +1,4 @@
+python3 ./meituri.py -a 14449 -n 55
+
+-a ID
+-n album Number
