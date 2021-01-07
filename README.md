@@ -14,3 +14,6 @@
 # 根据2.7移植而来
 # 需要python2.7的请点击下方链接
 # python 2.7  https://github.com/look1z/91porn-spider
+
+
+https://drive.google.com/drive/folders/1stRfbASx5FJdY7StDbUJKmalsqPZBtKt?usp=sharing
